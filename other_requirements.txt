@@ -1,0 +1,3 @@
+install this other stuff
+imgmagick
+applescript
